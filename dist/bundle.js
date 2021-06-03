@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".register").addEventListener("click",(()=>{var e;e={name:"Asia",xyz:"foo"},console.log(e)})),console.log("Hello Asia")})();
