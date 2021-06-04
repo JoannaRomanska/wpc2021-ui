@@ -1,2 +1,5 @@
 dist/
 node-modules/
+src/aws_export.js
+node_modules
+node_modules
